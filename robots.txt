@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://ocoloco.net/sitemap.xml
+Sitemap: /sitemap.xml
